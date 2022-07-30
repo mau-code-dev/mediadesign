@@ -1,0 +1,186 @@
+.testA {
+      position: fixed;
+      ackground-color: red;
+      width: 500px;
+      height: 500px;
+      left: 50%;
+
+      top: 50%;
+
+transform: translate(-50%, -50%);
+
+
+}
+
+.shoe {
+
+      margin-top: auto;
+      margin-bottom: auto;
+
+}
+
+
+.centerTest {
+      position: fixed;
+      width: 600px;
+      height: 600px;
+      left: 50%;
+      background-image: url(../cinema-2.jpg);
+      background-repeat: no-repeat;
+      top: 50%;
+      background-size: cover;
+      transform: translate(-50%, -50%);
+      transition-duration: cubic-bezier(.65,.18,.59,.74);
+      transition-timing-function: ease;
+}
+
+
+.tester {
+
+background-image: url(../cinema-dark.jpg);
+transition: all 1200ms;
+transition-timing-function: cubic-bezier(.65,.18,.59,.74);
+position: fixed;
+width: 600px;
+height: 600px;
+left: 50%;
+background-repeat: no-repeat;
+top: 50%;
+background-size: cover;
+transform: translate(-50%, -50%);
+olor: #FFF;
+
+}
+
+
+.text1 {
+      color: black;
+      margin-top:50%;
+}
+
+
+#box1 {
+      width: 200px;
+      background-color: yellow;
+      height: 100px;
+      osition: fixed;
+      margin: auto;
+      -index: 99 !important;
+      verflow: hidden;
+}
+
+
+
+.messagePositionA {
+      margin: 10px 10px 0px 0px;
+      z-index: 1000;
+
+}
+
+.messagePositionB {
+      margin: 10px 0px 0px 45px;
+      z-index: 100;
+
+}
+
+
+box {
+	width: 100px;
+	background-color: red;
+
+
+}
+
+#message1 {
+
+      font-size: 30px;
+      font-family: 'Arial NArrow', sans-serif;
+      ackground-color: #FFF;
+      transform:skew(5deg,-6deg) scaleX(0.65);
+      width: 200px;
+      height: 35px;
+
+      z-index: 100;
+      text-transform: uppercase;
+      font-weight: 300;
+      letter-spacing: 2px;
+      text-align: center;
+      adding-left: 25px;
+      adding-right: 80px;
+       margin: 210px 0px 1px 130px;
+       overflow:hidden;
+}
+
+
+#message2 {
+
+      font-size: 30px;
+      font-family: 'Arial NArrow', sans-serif;
+      ackground-color: #FFF;
+      transform:skew(5deg,-6deg) scaleX(0.65);
+      width: 200px;
+      height: 35px;
+      overflow:hidden;
+      z-index: 100;
+      text-transform: uppercase;
+      font-weight: 300;
+      letter-spacing: 2px;
+      text-align: center;
+      margin: -5px -10px 10px 88px;
+}
+
+pos {
+
+
+}
+
+
+
+#cin {
+
+margin-top: -500px;
+width:100%;
+
+}
+
+#tin{
+
+width:800px;
+position: absolute;
+
+}
+
+
+h1 {
+osition: fixed;
+idth:50px;
+
+}
+
+#labelxy-1 {
+
+width: 100px;
+margin: 150px 0px 0px 170px;
+
+}
+
+#labelxy-2 {
+
+width: 100px;
+margin: 0px 0px 0px 170px;;
+
+}
+
+.play {
+
+      position: fixed;
+      ackground-color: red;
+      width: 500px;
+      height: 800px;
+      left: 50%;
+
+      top: 50%;
+
+transform: translate(-50%, -50%);
+
+}

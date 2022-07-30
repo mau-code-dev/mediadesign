@@ -1,0 +1,77 @@
+{
+      "page": [
+          {
+            
+              "slideText": "Product Label and Packaging",
+              "note1": "hidden",     
+              "note2": "hidden",
+                "note3": "hidden",
+    
+                 "boxa1": "none", 
+               "popText1": "",
+               "popText2": "",
+               "popText3": "",
+              "text3": "Product label concept for a coffee brand and range of flavors that brings together a modern look, plus motifs and colors that represent a more American Southeast feel. ",
+            
+              "list1": "Concept",
+              "listv1": "", 
+              "list2": "Compositing" ,
+              "listv2": "",
+             "list3": " Photoshop ",
+             "listv3": "",
+             "list4": "Photography",
+             "listv4": "",
+             "list5": "Layout " ,
+             "listv5": "",
+              "list6": "" ,
+              "listv6":"none",
+              "list7": "" ,
+              "listv7":"none",
+              "list8": "" ,
+              "listv8":"none",
+
+              "text4": "",
+              "text5": "",
+              "text6": "",
+
+              "outAtt": "",     
+
+              "Icon1": "assets/img/icons/illustrator.png' title='Illustrator",
+              "Icon2": "assets/img/icons/photoshop.png'  title='Photoshop",
+              "Icon3": "assets/img/icons/indesign.png'  title='InDesign",
+              "Icon4": "",
+              "Icon5": "",
+
+               "ratio": "ratio ratio-16x9",
+               "video": "",
+               "img": "assets/img/queviva.jpg",
+
+              "widthLg": "450",
+              "heightLg": "450",  
+              "circleMarkTop1": "80%",
+              "circleMarkLeft1": "80%",
+              "circleMarkTop2": "80%",
+              "circleMarkLeft2": "80%",
+              "circleMarkTop3": "80%",
+              "circleMarkLeft3": "80%"
+
+          }
+
+      ],
+
+      "slide": [
+            {
+                  "thnlText1":"",
+                  "thnlText2": "Product Label and Packaging",
+                  "thnl": "assets/thnl/queviva_thnl.jpg",
+                  "dotSlot": "assets/thnl/queviva_thnl.jpg",
+                  "f.widthThnl": "571",
+                  "f.heightThnl": "318"
+                 
+
+            }
+      ]
+
+
+   }
+   

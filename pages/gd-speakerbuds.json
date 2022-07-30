@@ -1,0 +1,78 @@
+{
+      "page": [
+          {
+            
+              "slideText": "Phone Accessory",
+              "note1": "hidden",     
+              "note2": "hidden",
+                "note3": "hidden",
+    
+                "boxa1": "10px", 
+               "popText1": "",
+               "popText2": "",
+               "popText3": "",
+
+              "text3": "Holiday advertisement for new portable speaker. The print on the grill is meant to provide an example of how the product can be used for promotional marketing.  ",
+            
+              "list1": "Concept",
+              "listv1": "", 
+              "list2": "Compositing" ,
+              "listv2": "",
+             "list3": " Photoshop ",
+             "listv3": "",
+             "list4": " Layout ",
+             "listv4": "",
+             "list5": " " ,
+             "listv5": "none",
+             "list6": "" ,
+             "listv6":"none",
+              "list7": "" ,
+              "listv7":"none",
+              "list8": "" ,
+              "listv8":"none",
+
+              "text4": "",
+              "text5": "",
+              "text6": "",
+
+              "outAtt": "Photography of models from Adobe Stock",     
+
+              "Icon1": "assets/img/icons/illustrator.png' title='Illustrator",
+              "Icon2": "assets/img/icons/photoshop.png'  title='Photoshop",
+              "Icon3": "",
+              "Icon4": "",
+              "Icon5": "",
+
+               "ratio": "ratio ratio-16x9",
+               "video": "",
+               "img": "assets/img/speakerbuds3.jpg",
+
+              "widthLg": "",
+              "heightLg": "",  
+              "circleMarkTop1": "80%",
+              "circleMarkLeft1": "80%",
+              "circleMarkTop2": "80%",
+              "circleMarkLeft2": "80%",
+              "circleMarkTop3": "80%",
+              "circleMarkLeft3": "80%"
+
+          }
+
+      ],
+
+      "slide": [
+            {
+                  "thnlText1":"",
+                  "thnlText2": "Speaker Buds",
+                  "thnl": "assets/thnl/speakerbuds3_thnl.jpg",
+                  "dotSlot": "assets/thnl/speakerbuds3_thnl.jpg",
+                  "f.widthThnl": "571",
+                  "f.heightThnl": "318"
+                 
+
+            }
+      ]
+
+
+   }
+   

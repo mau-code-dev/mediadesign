@@ -1,0 +1,85 @@
+{
+      "page": [
+          {
+            "slide": "2",
+            "slideText": "Branding Web Interactive",
+            "note1": "visible",
+        
+          "note2": "visible",
+            "note3": "hidden",
+      
+
+              "popText1": "Try the buttons. My main objective was to create a series of buttons that a user can comprehend quickly and accurately",
+              "popText2": "The main objective was to demonstrate what an would look like in order to serve as a marketing tool for sales",
+              "popText3": "pop",
+
+              "text3": "A web interactive for online use. I developed the concept to aid in the marketing of a new electronic product, as well as promoting it's potential use for promotional branding. The main objective was to provide sales teams with access to customizable media to aid in sells",
+
+              "list1": "Concept" ,
+                  "listv1":"",
+                  "list2": "JavaScript" ,
+                  "listv2":"",
+                  "list3": "Composite",
+                  "listv3":"",
+                  "list4": "HTML/CSS",
+                  "listv4":"",
+                  "list5": "" ,
+                  "listv5":"none",
+                  "list6": "" ,
+                  "listv6":"none",
+                  "list7": "" ,
+                  "listv7":"none",
+                  "list8": "" ,
+                  "listv8":"none",
+
+              "text4": "",
+              "text5": "",
+              "text6": "",
+
+              "outAtt": "",  
+
+              "Icon1": "assets/img/icons/html.png' title='HTML",
+              "Icon2": "assets/img/icons/js.png' title='JavaScript",
+              "Icon3": "assets/img/icons/photoshop.png'  title='Photoshop",
+              "Icon4": "",
+              "Icon5": "",
+
+              "ratio": "",
+              "video": "<div class='framer'><div class='ratio ratio-3x2 m-auto'><iframe style='overflow:hidden;' class='videoPlayer' width='' height='' id='myPlayer' src='imageInsert/index.html' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe></div></div>",
+              "widthLg": "900",
+              "heightLg": "600",
+              
+              "img": "",
+              "imgW": "",
+              "imgH": "",
+           
+              "circle1": "1",
+              "circle2": "2",
+              "circle3": "3",   
+              "circleMarkTop1": "20%",
+              "circleMarkLeft1": "8%",
+              "circleMarkTop2": "50%",
+              "circleMarkLeft2": "69%",
+              "circleMarkTop3": "140%",
+              "circleMarkLeft3": "10%"
+
+          }
+
+      ],
+
+      "slide": [
+            {
+                  "thnlText1":"",
+                  "thnlText2":  "Branding Web Interactive",
+                  "thnl": "assets/thnl/charger.jpg",
+                  "dotSlot": "assets/thnl/charger.jpg",
+                  "f.widthThnl": "571",
+                  "f.heightThnl": "318"
+                 
+
+            }
+      ]
+
+
+   }
+   

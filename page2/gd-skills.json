@@ -1,0 +1,129 @@
+{
+      "appSkill": [
+          {
+                
+                "number": "1",
+                "vis": "inline",
+                "txt": "Photoshop CC 2022",
+                "img":  "assets/img/icons/photoshop.png",
+                "level": "skillBar5Hide",
+                "delay": "delay1",
+                "title": ""
+            },
+            {
+                  "number": "2",
+                  "vis": "inline",
+                   "txt": "Illustrator CC 2022",
+                   "img":  "assets/img/icons/illustrator.png",
+                   "level": "skillBar5Hide",
+                   "delay": "delay1",
+                   "title": ""
+            },
+            {
+                  "number": "3",
+                  "txt": "Premiere CC 2022",
+                  "img":  "assets/img/icons/premiere.png",
+                  "level": "skillBar5Hide",
+                  "delay": "delay1",
+                  "title": ""
+            },
+            {
+                  "number": "4",
+                  "txt": "InDesign CC 2022",
+                  "img":  "assets/img/icons/indesign.png",
+                  "level": "skillBar5Hide",
+                  "delay": "delay1",
+                  "title": ""
+            },
+            {
+                  "number": "5",
+                  "txt": "ADOBE XD CC 2022",
+                  "img":  "assets/img/icons/Xd.png",
+                  "level": "skillBar5Hide",
+                  "delay": "delay1",
+                  "title": ""
+            },
+            {
+                  "number": "6",
+                  "txt": "HTML5",
+                  "img":  "assets/img/icons/html.png",
+                  "level": "skillBar5Hide",                
+                  "delay": "delay1",
+                  "title": ""
+            },
+            {
+                  "number": "7",
+                  "txt": "CSS3",
+                  "img":  "assets/img/icons/css.png",
+                  "level": "skillBar5Hide",
+                  "delay": "delay2",
+                  "title": ""
+            },
+            {
+                  "number": "8",
+                  "txt": "Blender",
+                  "img":  "assets/img/icons/blender.png",
+                  "level": "skillBar4Hide",
+                  "delay": "delay2",
+                  "title": ""
+            },
+            {
+                  "number": "9",
+                  "txt": "After Effects CC 2022",
+                  "img":  "assets/img/icons/after effects.png",
+                  "level": "skillBar4Hide",
+                  "delay": "delay2",
+                  "title": ""
+            },
+            {
+                  "number": "10",
+                  "txt": "Logic X",
+                  "img":  "assets/img/icons/logic.png",
+                  "level": "skillBar4Hide",
+                  "delay": "delay2",
+                  "title": ""
+            },
+            {
+                  "number": "11",
+                  "vis": "none",
+                  "txt": "Mudbox",
+                  "img":  "assets/img/icons/mudbox.png",
+                  "level": "skillBar4Hide",
+                  "delay": "delay2",
+                  "title": ""
+            },
+            {
+                  "number": "12",
+                  "txt": "3D Coat",
+                  "img":  "assets/img/icons/3d coat.png",
+                  "level": "skillBar3Hide",
+                  "delay": "delay2",
+                  "title": ""
+            },
+            {
+                  "number": "13",
+                  "txt": "Cinema 4D",
+                  "img":  "assets/img/icons/cinema 4d.png",
+                  "level": "skillBar3Hide",
+                  "delay": "delay3",
+                  "title": ""
+            },
+            {
+                  "number": "14",
+                  "txt": "JavaScript",
+                  "img":  "assets/img/icons/js.png",
+                  "level": "skillBar3Hide",
+                  "delay": "delay3",
+                  "title": ""
+            }
+         
+          
+      ]
+
+}       
+          
+
+      
+
+
+   

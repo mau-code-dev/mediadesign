@@ -1,0 +1,78 @@
+{
+      "page": [
+          {
+            
+              "slideText": "Phone Loop Ad",
+              "note1": "",     
+              "note2": "hidden",
+                "note3": "hidden",
+
+               "popText1": "These separate images were used to create composite for a product holiday ad ",
+               "popText2": "",
+               "popText3": "",
+
+              "text3": "",
+
+            
+              "list1": "Product Photography" ,
+              "listv1":"",
+              "list2": "Photoshop" ,
+              "listv2":"",
+              "list3": "Composite",
+              "listv3":"",
+              "list4": "",
+                  "listv4":"none",
+                  "list5": "" ,
+                  "listv5":"none",
+                  "list6": "" ,
+                  "listv6":"none",
+                  "list7": "" ,
+                  "listv7":"none",
+                  "list8": "" ,
+                  "listv8":"none",
+
+              "text4": "",
+              "text5": "",
+              "text6": "",
+
+              "outAtt": "Stock scenery imagery and model from Adobe Stock  ",     
+
+               "Icon1": "assets/img/icons/photoshop.png'  title='Photoshop",
+               "Icon2": "",
+               "Icon3": "",
+               "Icon4": "",
+               "Icon5": "",
+
+               "ratio": "ratio-16x9",
+               "video": "",
+               "img": "assets/img/phone_acc_1.jpg",
+
+              "widthLg": "450",
+              "heightLg": "415",  
+              "circleMarkTop1": "50%",
+              "circleMarkLeft1": "10%",
+              "circleMarkTop2": "80%",
+              "circleMarkLeft2": "80%",
+              "circleMarkTop3": "80%",
+              "circleMarkLeft3": "80%"
+
+          }
+
+      ],
+
+      "slide": [
+            {
+                  "thnlText1":"",
+                  "thnlText2": "Phone Loop Ad",
+                  "thnl": "assets/thnl/phone_acc_thnl.jpg",
+                  "dotSlot": "assets/thnl/phone_acc_thnl.jpg",
+                  "f.widthThnl": "640",
+                  "f.heightThnl": "360"
+                 
+
+            }
+      ]
+
+
+   }
+   

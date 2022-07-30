@@ -1,0 +1,75 @@
+{
+      "page": [
+          {
+            
+              "slideText": "Sanitizer Box",
+              "note1": "hidden",     
+              "note2": "hidden",
+                "note3": "hidden",
+
+               "popText1": "",
+               "popText2": "",
+               "popText3": "",
+              "text3": "Video production for advertising and demonstrating a sanitizing phone box. ",
+              "list1": " Turntable model" ,
+              "listv1": "" ,
+              "list2": " Scene layout, lights, camera  " ,
+              "listv2": "" ,
+              "list3": " Visual effects  " ,
+              "listv3": "" ,
+              "list4": "  Animation " ,
+              "listv4":"none",
+              "list5": "" ,
+              "listv5":"none",
+              "list6": "" ,
+              "listv6":"none",
+              "list7": "" ,
+              "listv7":"none",
+              "list8": "" ,
+              "listv8":"none",
+
+              "text4": "Video Length: 54 sec.",
+              "text5": "",
+              "text6": "",
+
+              "outAtt": "HDRIHaven: HDRI",     
+
+               "Icon1": "assets/img/icons/blender.png' title='Blender",
+               "Icon2": "assets/img/icons/after effects.png' title='After Effects",
+               "Icon3": "assets/img/icons/photoshop.png'  title='Photoshop",
+               "Icon4": "assets/img/icons/premiere.png' title='Premiere",
+               "Icon5": "",
+
+               "ratio": "",
+               "video": "<div class='framer'><div class='ratio ratio-16x9 m-auto'><iframe style='overflow:hidden;' class='videoPlayer' width='' height='' id='myPlayer' src='https://www.youtube.com/embed/cwhfmpMQWSM' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe></div></div>",
+               "img": "",
+
+              "widthLg": "450",
+              "heightLg": "415",  
+              "circleMarkTop1": "80%",
+              "circleMarkLeft1": "80%",
+              "circleMarkTop2": "80%",
+              "circleMarkLeft2": "80%",
+              "circleMarkTop3": "80%",
+              "circleMarkLeft3": "80%"
+
+          }
+
+      ],
+
+      "slide": [
+            {
+                  "thnlText1":"",
+                  "thnlText2": "Sanitizer Box",
+                  "thnl": "assets/img/thnl/sanitizerBox.png",
+                  "dotSlot": "assets/img/thnl/sanitizerBox.png",
+                  "f.widthThnl": "640",
+                  "f.heightThnl": "360"
+                 
+
+            }
+      ]
+
+
+   }
+   

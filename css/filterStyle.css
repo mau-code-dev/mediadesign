@@ -1,0 +1,173 @@
+.button-filter {
+               padding: .75rem .55rem .75rem .55rem;
+               border: 0;
+               margin: .1rem .5em .5em .5em;
+               color: #ddd;
+               cursor: pointer;
+               outline: none;
+               background: rgb(63, 63, 63);
+               text-align: center;
+               display: block;
+               width: 14rem;
+               transition-duration: 300ms
+}
+
+.button-filter2 {
+               padding: .25rem .55rem .25rem .55rem;
+               border: 0;
+               margin: 1rem .5rem 1rem .5rem;
+               color: #ddd;
+               cursor: pointer;
+               outline: none;
+               background: rgb(63, 63, 63);
+               text-align: center;
+               display: block;
+               width: 90%;
+               min-width: 100px;
+               transition-duration: 300ms
+}
+
+button.active {
+               background: #333;
+               border: .1rem solid lightcoral
+}
+
+button.cat-all {
+               background: 3d3d3d;
+               border-radius: 2rem;
+}
+
+button.cat-all:hover {
+               border-radius: 2rem;
+               background: lightcoral;
+               border-radius: 2rem;
+               filter: invert(100%);
+               animation: beamSweep;
+               -o-animation: beamSweep;
+               -moz-animation: beamSweep;
+               -webkit-animation: beamSweep;
+               animation-direction: foward;
+               -o-animation-direction: alternate-reverse;
+               -moz-animation-direction: forward;
+               -webkit-animation-direction: aalternate-reverse;
+               animation-duration: 400ms;
+               -o-animation-duration: 400ms;
+               -moz-animation-duration: 400ms;
+               -webkit-animation-duration: 400ms;
+               -moz-animation-timing-function: linear;
+               color: #000;
+               font-weight: 500;
+               letter-spacing: .02rem
+}
+
+.catHover {
+               border-radius: 2rem;
+}
+
+.catHover:hover {
+               background: lightcoral;
+               border-radius: 2rem;
+               filter: invert(100%);
+               animation: beamSweep;
+               -o-animation: beamSweep;
+               -moz-animation: beamSweep;
+               -webkit-animation: beamSweep;
+               animation-direction: foward;
+               -o-animation-direction: alternate-reverse;
+               -moz-animation-direction: forward;
+               -webkit-animation-direction: aalternate-reverse;
+               animation-duration: 400ms;
+               -o-animation-duration: 400ms;
+               -moz-animation-duration: 400ms;
+               -webkit-animation-duration: 400ms;
+               -moz-animation-timing-function: linear;
+               color: #000;
+               font-weight: 500;
+               letter-spacing: .02rem;
+               padding: .75rem .25rem .75rem .25rem;
+}
+
+.f-cat {
+               padding: .2rem
+}
+
+/* hide-cat {
+               opacity: 0;
+               display: none;
+               margin-left: -1000;
+               -webkit-animation: fadeOut .65s ease forwards;
+               animation: fadeOut .65s ease forwards;
+               transform: scale(1);
+} */
+
+@-webkit-keyframes fadeOut {
+               0% {
+                              opacity: 1;
+                              margin-left: -1000;
+                              transform: scale(1)
+               }
+
+               100% {
+                              opacity: 0;
+                              margin-left: 0;
+                              transform: scale(.25)
+               }
+}
+
+@keyframes fadeOut {
+               0% {
+                              opacity: 1;
+                              margin-left: -1000;
+                              transform: scale(1)
+               }
+
+               100% {
+                              opacity: 0;
+                              margin-left: 0;
+                              transform: scale(.25)
+               }
+}
+
+.filter-row .hide-cat.active {
+               opacity: 1;
+               display: inline-block;
+               -webkit-animation: fadeIn .35s ease forwards;
+               animation: fadeIn .35s ease forwards;
+}
+
+.filter-row2 .hide-cat.active {
+               opacity: 1;
+              loat: left;
+            osition: relative;
+              isplay: block;
+               -webkit-animation: fadeIn .35s ease forwards;
+               animation: fadeIn .35s ease forwards;
+               ackground: red;
+               
+}
+
+@-webkit-keyframes fadeIn {
+               0% {
+                              opacity: 0;
+                              margin-left: -1000
+               }
+
+               100% {
+                              opacity: 1;
+                              margin-left: 0
+               }
+}
+
+@keyframes fadeIn {
+               0% {
+                              opacity: 0;
+                              margin-left: -1000;
+                              transform: scale(.5)
+               }
+
+               100% {
+                              opacity: 1;
+                              margin-left: 0;
+                              transform: scale(1)
+               }
+}

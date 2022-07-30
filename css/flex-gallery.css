@@ -1,0 +1,109 @@
+.fg-container {
+    /**
+     * Flex display is the key point to make images grow.
+     */
+    display: flex;
+    flex-wrap: wrap;
+}
+.fg-container::after {
+    /**
+     * Creates a blank element after the last image.
+     */
+    content: '';
+    /**
+     * Prevents the images in the last row to grow.
+     * In case they become too large.
+     */
+    flex-grow: 99999;
+    /**
+     * Well... If the left space is less than (screenHeight / 4), make them grow!
+     */
+    min-width: calc(100vw / 4);
+    
+    
+}
+
+
+
+.fg-item {
+    /**
+     * So that the text inside can be positioned absolutely.
+     */
+    position: relative;
+    
+}
+.fg-img {
+    /**
+     * Makes images undraggable.
+     */
+    user-select: none;
+    -webkit-user-select: none; /* Safari */
+  -ms-user-select: none; /* IE 10 and IE 11 */
+    /**
+     * Lets widths of images fit their parents (<a>s)
+     */
+    width: 100%;
+    /**
+     * Eliminates paddings images below images.
+     */
+    /*display: block;*/
+    /**
+     * Equivalent to "display: block;"
+     */
+    vertical-align: middle;
+    
+}
+.fg-img2 {
+    /**
+     * Makes images undraggable.
+     */
+    user-select: none;
+    -webkit-user-select: none; /* Safari */
+  -ms-user-select: none; /* IE 10 and IE 11 */
+    /**
+     * Lets widths of images fit their parents (<a>s)
+     */
+    
+    /**
+     * Eliminates paddings images below images.
+     */
+    /*display: block;*/
+    /**
+     * Equivalent to "display: block;"
+     */
+    vertical-align: middle;
+    
+}
+
+
+
+.fg-text {
+    /**
+     * Locate the text along with the image.
+     */
+    position: absolute;
+    left: 5%;
+    bottom: 5%;
+    max-width: 320px;
+    word-wrap: break-word;
+    font-weight: 600;
+    text-align: left;
+    font-size: 0.6rem;
+    ext-shadow: 1px 1px 2px  rgba(250,250,250,0.75);
+    color: #222 !important;
+    letter-spacing: 0.05rem;
+    background: rgba(200,200,200,0.5);
+    padding: 0.25rem 0.5rem;
+    border-radius: 0.25rem;
+    
+    
+    /**
+     * Bring the text to the front.
+     */
+    z-index: 2;
+    /**
+     * White texts look good.
+     */
+    color: rgb(255, 255, 255);
+}
+

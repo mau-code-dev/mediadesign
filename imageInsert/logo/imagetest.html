@@ -1,0 +1,263 @@
+
+<!doctype html>
+<html lang="en">
+  <head>
+        <!-- Required meta tags -->
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <!-- Bootstrap CSS -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1" crossorigin="anonymous">
+
+
+         <link rel="stylesheet" href="css/styles.css">
+<style>
+*{margin:0;padding:0;font-family:sans-serif;background: #c0ffee}
+canvas{ ackground: #FFF}
+ a {
+    background: #aaa;
+    color: #fff;
+    padding: 5px 10px;
+}
+
+.base {
+ background-color: #000;
+
+}
+
+.baseA {
+ background-color: #FFF;
+
+}
+
+button {
+      background-color: #aaa;
+      width:100%
+}
+
+</style>
+
+
+
+
+</head>
+<body>
+
+
+<div id="base" class="base" width="200px" height="200px" ></div>
+
+
+<div>
+      <div id="ton" class="centerTest ">
+
+            <div id="imageDIV" >
+
+
+            
+                  <div ><img  id="output" />
+                  </div>
+                  <div>
+
+                        <div><p><input type="file"  accept="image/*" name="image" id="file"          onchange="loadFile(event)" style="display: none;"></p>
+                        </div>
+                        <div class="container">
+                        <div  class="row">
+                              <div class="col"><label for="file" class="text-uppercase button" style="cursor: pointer;">Upload logo</label></div>
+                              <div class="col"><button onclick="myCanvas()">Place Logo</button></div>
+                              <div class="col"><button id='linkspot'></button ></div>
+                              <div class="col"><button onClick="window.location.reload();">Restart</button></div>
+                              <div class="col"><button onclick="dis()">test</button></div>
+
+                        </div>
+
+
+                        <div>
+
+
+                                    <canvas id="myCanvas"   class="base "  width="750" height="750">Your browser does not support Canvas.</canvas>
+
+
+                        </div>
+
+
+                  </div>
+            </div>
+       </div>
+</div>
+
+
+
+
+
+
+<!--<img id="scream" src="logo-2.png" alt="The Scream" width="200" height="200">-->
+<img id="luft" src="connect-2-in-1-charging-cable.jpg" alt="The Scream" width="0" height="0">
+
+
+
+<script>
+
+function myCanvas() {
+
+
+        var c = document.getElementById("myCanvas");
+        var ctx = c.getContext("2d");
+        var img = document.getElementById("output");
+
+        if (img.height > 35) {
+             rh = 35/img.height;
+             h = img.height * rh;
+             w = img.width  * rh;
+      } else {
+            h = img.height;
+            w = img.width;
+      }
+        var x = 668-(w / 2);
+        var y = 316-(h / 2);
+        // get the top left position of the image
+
+        ctx.drawImage(img, x, y, w, h);
+console.log();
+console.log(h);
+console.log(w);
+
+
+}
+
+function scaleToFit(output){
+    // get the scale
+    var scale = Math.min(canvas.width / img.width, canvas.height / img.height);
+    // get the top left position of the image
+    var x = (canvas.width / 2) - (img.width / 2) * scale;
+    var y = (canvas.height / 2) - (img.height / 2) * scale;
+    ctx.drawImage(img, x, y, img.width * scale, img.height * scale);
+}
+
+
+
+</script>
+<script>
+
+</script>
+
+
+<script>
+function dis() {
+      var element = document.getElementById("myCanvas");
+   element.classList.toggle("baseA");
+}
+</script>
+
+<script>
+
+
+  document.getElementById("luft").onload = function() {myCanvasA()};
+
+
+function myCanvasA() {
+  var c = document.getElementById("myCanvas");
+  var ctx = c.getContext("2d");
+  var img = document.getElementById("luft");
+  ctx.drawImage(img,0,0);
+}
+
+</script>
+
+<script>
+
+
+
+
+
+function clear() {
+  var c = document.getElementById("myCanvas");
+  var ctx = c.getContext("2d");
+  var img = document.getElementById("clear");
+  ctx.drawImage(img,0,0);
+}
+
+</script>
+
+
+
+<script>
+
+
+
+
+// grab the canvas element, get the context for API access and
+// preset some variables
+var canvas = document.querySelector( 'canvas' ),
+    c = canvas.getContext( '2d' ),
+    mouseX = 0,
+    mouseY = 0,
+    width = 800,
+    height = 800;
+
+// resize the canvas
+canvas.width = width;
+canvas.height = height;
+
+
+// get the mouse position on the canvas (some browser trickery involved)
+canvas.addEventListener( 'mousemove', function( event ) {
+  if( event.offsetX ){
+    mouseX = event.offsetX;
+    mouseY = event.offsetY;
+  } else {
+    mouseX = event.pageX - event.target.offsetLeft;
+    mouseY = event.pageY - event.target.offsetTop;
+  }
+  // call the draw function
+  draw();
+}, false );
+
+canvas.addEventListener( 'mousedown', function( event ) {
+    mousedown = true;
+}, false );
+canvas.addEventListener( 'mouseup', function( event ) {
+    mousedown = false;
+}, false );
+
+
+
+var link = document.createElement('a');
+    link.innerHTML = 'Download';
+    link.addEventListener('click', function(ev) {
+    link.href = canvas.toDataURL();
+    link.download = "myImage.png";
+}, false);
+document.getElementById('linkspot').appendChild(link);
+
+
+
+</script>
+
+<script>
+
+
+        var loadFile = function(event) {
+        	var image = document.getElementById('output');
+        	image.src = URL.createObjectURL(event.target.files[0]);
+        };
+
+
+
+
+
+
+
+</script>
+
+
+
+
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.4/dist/umd/popper.min.js" integrity="sha384-q2kxQ16AaE6UbzuKqyBE9/u/KzioAlnx2maXQHiDX9d4/zp8Ok3f+M7DPm+Ib6IU" crossorigin="anonymous"></script>
+       <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/js/bootstrap.min.js" integrity="sha384-pQQkAEnwaBkjpqZ8RU1fF1AKtTcHJwFl3pblpTlHXybJjHpMYo79HY3hIi4NKxyj" crossorigin="anonymous"></script>
+
+
+</body>
+</html>

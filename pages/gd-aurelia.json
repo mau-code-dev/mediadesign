@@ -1,0 +1,77 @@
+{
+      "page": [
+          {
+            
+              "slideText": "Earbud Sales Sheet",
+              "note1": "hidden",     
+              "note2": "hidden",
+                "note3": "hidden",
+    
+                 "boxa1": "none", 
+               "popText1": "",
+               "popText2": "",
+               "popText3": "",
+              "text3": "Sales sheet for Aurelia Earbuds that was part of a marketing campaign that was used for the web, emails, banners, and catalogs.",
+            
+              "list1": "Concept",
+              "listv1": "", 
+              "list2": "Compositing" ,
+              "listv2": "",
+             "list3": " Photoshop ",
+             "listv3": "",
+             "list4": " Layout ",
+             "listv4": "",
+             "list5": " " ,
+             "listv5": "none",
+              "list6": "" ,
+              "listv6":"none",
+              "list7": "" ,
+              "listv7":"none",
+              "list8": "" ,
+              "listv8":"none",
+
+              "text4": "",
+              "text5": "",
+              "text6": "",
+
+              "outAtt": "",     
+
+              "Icon1": "assets/img/icons/illustrator.png' title='Illustrator",
+              "Icon2": "assets/img/icons/photoshop.png'  title='Photoshop",
+              "Icon3": "",
+              "Icon4": "",
+              "Icon5": "",
+
+               "ratio": "ratio ratio-16x9",
+               "video": "",
+               "img": "assets/img/aurelia.jpg",
+
+              "widthLg": "450",
+              "heightLg": "450",  
+              "circleMarkTop1": "80%",
+              "circleMarkLeft1": "80%",
+              "circleMarkTop2": "80%",
+              "circleMarkLeft2": "80%",
+              "circleMarkTop3": "80%",
+              "circleMarkLeft3": "80%"
+
+          }
+
+      ],
+
+      "slide": [
+            {
+                  "thnlText1":"",
+                  "thnlText2": "Earbud Sales Sheet",
+                  "thnl": "assets/thnl/aurelia_thnl.jpg",
+                  "dotSlot": "assets/thnl/aurelia_thnl.jpg",
+                  "f.widthThnl": "571",
+                  "f.heightThnl": "318"
+                 
+
+            }
+      ]
+
+
+   }
+   

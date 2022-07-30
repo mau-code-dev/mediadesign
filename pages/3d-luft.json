@@ -1,0 +1,80 @@
+{
+      "page": [
+          {
+             
+              "slideText": "Air Purifier",
+              "note1": "hidden",     
+              "note2": "hidden",
+                "note3": "hidden",
+           
+
+              "popText1": "",
+              "popText2": "",
+              "popText3": "",
+
+              "text3": "Interavtive 3D Model of UVA air sanitizer/purifier",
+
+              "list1": "3D model" ,
+              "listv1": "" ,
+              "list2": "" ,
+              "listv2": "none" ,
+              "list3": "  " ,
+              "listv3": "none" ,
+              "list4": " " ,
+              "listv4": "none" ,
+              "list5": "" ,
+              "listv5": "none" ,
+              "list6": "" ,
+              "listv6": "none" ,
+              "list7": "" ,
+              "listv7": "none" ,
+              "list8": "" ,
+              "listv8": "none" ,
+
+              "text4": "",
+              "text5": "",
+              "text6": "",
+
+              "outAtt": "gIFT Model Viewer",  
+
+              "Icon1": "assets/img/icons/blender.png' title='Blender",
+              "Icon2": "",
+              "Icon3": "",
+              "Icon4": "",
+              "Icon5": "",
+
+              "ratio": "",
+              "video": "<div class='framer'><div class='ratio ratio-4x3 m-auto'><iframe style='overflow:hidden;' class='videoPlayer' width='' height='' id='myPlayer' src='LuftModel/index.html' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe></div></div>",
+              "widthLg": "800",
+              "heightLg": "600",
+              
+              "img": "",
+              "imgW": "",
+              "imgH": "",
+              "circleMarkTop1": "10%",
+              "circleMarkLeft1": "50%",
+              "circleMarkTop2": "100%",
+              "circleMarkLeft2": "100%",
+              "circleMarkTop3": "140%",
+              "circleMarkLeft3": "10%"
+
+          }
+
+      ],
+
+      "slide": [
+            {
+                  "thnlText1":"",
+                  "thnlText2":  "Air Purifier",
+                  "thnl": "assets/thnl/luft.jpg",
+                  "dotSlot": "assets/thnl/luft.jpg",
+                  "f.widthThnl": "379",
+                  "f.heightThnl": "318"
+                 
+
+            }
+      ]
+
+
+   }
+   

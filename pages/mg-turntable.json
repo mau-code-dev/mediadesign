@@ -1,0 +1,79 @@
+{
+      "page": [
+          {
+             
+              "slideText": "Miniature Turntable Replica Speaker",
+              "note1": "hidden",     
+              "note2": "hidden",
+                "note3": "hidden",
+           
+
+              "popText1": "",
+              "popText2": "",
+              "popText3": "",
+
+              "text3": "Miniature replica of turntable that functions as a wireless speaker. Footage used for professional product video.",
+              "list1": "3D model" ,
+              "listv1": "" ,
+              "list2": "  " ,
+              "listv2": "none" ,
+              "list3": " " ,
+              "listv3": "none" ,
+              "list4": " " ,
+              "listv4": "none" ,
+              "list5": "" ,
+              "listv5": "none" ,
+              "list6": "" ,
+              "listv6": "none" ,
+              "list7": "" ,
+              "listv7": "none" ,
+              "list8": "" ,
+              "listv8": "none" ,
+
+              "text4": "Video Length: 52 sec.",
+              "text5": "",
+              "text6": "",
+
+              "outAtt": "Blenderkit :Plant, picture frame, and laptop model <br>TextureHaven: table texture and wall texture ",  
+
+              "Icon1": "assets/img/icons/blender.png' title='Blender",
+              "Icon2": "assets/img/icons/after effects.png' title='After Effects",
+              "Icon3": "assets/img/icons/photoshop.png'  title='Photoshop",
+              "Icon4": "assets/img/icons/premiere.png' title='Premiere",
+              "Icon5": "",
+
+              "ratio": "",
+              "video": "<div class='framer'><div class='ratio ratio-16x9 m-auto'><iframe style='overflow:hidden;' class='videoPlayer' width='' height='' id='myPlayer' src='https://www.youtube.com/embed/Lpjku_SoSDY' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe></div></div>",
+              "widthLg": "1600",
+              "heightLg": "900",
+              
+              "img": "",
+              "imgW": "",
+              "imgH": "",
+              "circleMarkTop1": "10%",
+              "circleMarkLeft1": "50%",
+              "circleMarkTop2": "100%",
+              "circleMarkLeft2": "100%",
+              "circleMarkTop3": "140%",
+              "circleMarkLeft3": "10%"
+
+          }
+
+      ],
+
+      "slide": [
+            {
+                  "thnlText1":"",
+                  "thnlText2":  "Miniature Turntable Replica Speaker",
+                  "thnl": "assets/img/thnl/turntable_thnl.jpg",
+                  "dotSlot": "assets/img/thnl/Turntable-video.jpg",
+                  "f.widthThnl": "571",
+                  "f.heightThnl": "318"
+                 
+
+            }
+      ]
+
+
+   }
+   

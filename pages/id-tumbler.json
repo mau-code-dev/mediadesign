@@ -1,0 +1,76 @@
+{
+      "page": [
+            {
+                  "slide": "2",
+                  "slideText": "Tumbler Composite ",
+                  "note1": "hidden",     
+                "note2": "hidden",
+                "note3": "hidden",
+    
+                   "popText1": "",
+                   "popText2": "",
+                   "popText3": "",
+    
+                  "text3": "Photoshop composite for tech tumbler product. ",
+
+                  "list1": "Composite" ,
+                  "listv1":"",
+                  "list2": "Photoshop" ,
+                  "listv2":"",
+                  "list3": "",
+                  "listv3":"none",
+                  "list4": "",
+                  "listv4":"none",
+                  "list5": "" ,
+                  "listv5":"none",
+                  "list6": "" ,
+                  "listv6":"none",
+                  "list7": "" ,
+                  "listv7":"none",
+                  "list8": "" ,
+                  "listv8":"none",
+    
+                  "text4": "",
+                  "text5": "",
+                  "text6": "",
+    
+                  "outAtt": "Background stock image from Unsplash.com",     
+    
+                   "Icon1": "assets/img/icons/photoshop.png'  title='Photoshop",
+                   "Icon2": "",
+                   "Icon3": "",
+                   "Icon4": "",
+                   "Icon5": "",
+    
+                   
+                  "ratio": "ratio-16x9",
+                   "video": "",
+                   "img": "assets/img/lg-tumbler.jpg",
+    
+                  "widthLg": "450",
+                  "heightLg": "415",  
+                  "circleMarkTop1": "50%",
+                  "circleMarkLeft1": "5%",
+                  "circleMarkTop2": "80%",
+                  "circleMarkLeft2": "80%",
+                  "circleMarkTop3": "80%",
+                  "circleMarkLeft3": "80%"
+    
+              }
+      ],
+
+      "slide": [
+            {
+                  "thnlText1": "",
+                  "thnlText2": "Tumbler Composite",
+                  "thnl": "assets/thnl/Tumbler.jpg",
+                  "dotSlot": "assets/img/lg-tumbler.jpg",
+                  "f.widthThnl": "900",
+                  "f.heightThnl": "686"
+                 
+
+            }
+      ] 
+
+   }
+   

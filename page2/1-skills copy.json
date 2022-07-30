@@ -1,0 +1,136 @@
+{
+      "appSkill": [
+          {
+                "number": "1",
+                "txt": "Photoshop CC 2022",
+                "img":  "assets/img/icons/photoshop.png",
+                "level": "skillBar5Hide",
+                "delay": "delay1"
+            },
+            {
+                  "number": "2",
+                   "txt": "Illustrator CC 2022",
+                   "img":  "assets/img/icons/illustrator.png",
+                   "level": "skillBar5Hide",
+                   "delay": "delay1"
+            },
+            {
+                  "number": "3",
+                  "txt": "Premiere CC 2022",
+                  "img":  "assets/img/icons/premiere.png",
+                  "level": "skillBar5Hide",
+                  "delay": "delay1"
+            },
+            {
+                  "number": "4",
+                  "txt": "InDesign CC 2022",
+                  "img":  "assets/img/icons/indesign.png",
+                  "level": "skillBar5Hide",
+                  "delay": "delay1"
+            },
+            {
+                  "number": "5",
+                  "txt": "ADOBE XD CC 2022",
+                  "img":  "assets/img/icons/Xd.png",
+                  "level": "skillBar5Hide",
+                 
+                  "delay": "delay1"
+            },
+            {
+                  "number": "6",
+                  "txt": "HTML5",
+                  "img":  "assets/img/icons/html.png",
+                  "level": "skillBar5Hide",                
+                  "delay": "delay1"
+            },
+            {
+                  "number": "7",
+                  "txt": "CSS3",
+                  "img":  "assets/img/icons/css.png",
+                  "level": "skillBar5Hide",
+                          
+                  "delay": "delay2"
+            },
+            {
+                  "number": "8",
+                  "txt": "Blender",
+                  "img":  "assets/img/icons/blender.png",
+                  "level": "skillBar4Hide",
+                  "delay": "delay2"
+            },
+            {
+                  "number": "9",
+                  "txt": "After Effects CC 2022",
+                  "img":  "assets/img/icons/after effects.png",
+                  "level": "skillBar4Hide",
+                  "delay": "delay2"
+            },
+            {
+                  "number": "10",
+                  "txt": "Logic",
+                  "img":  "assets/img/icons/logic.png",
+                  "level": "skillBar4Hide",
+                
+                  "delay": "delay2"
+            },
+            {
+                  "number": "11",
+                  "txt": "Mudbox",
+                  "img":  "assets/img/icons/mudbox.png",
+                  "level": "skillBar4Hide",
+                  
+                  "delay": "delay2"
+            },
+            {
+                  "number": "12",
+                  "txt": "3D Coat",
+                  "img":  "assets/img/icons/3d coat.png",
+                  "level": "skillBar3Hide",
+                  "delay": "delay2"
+            },
+            {
+                  "number": "13",
+                  "txt": "Cinema 4D",
+                  "img":  "assets/img/icons/cinema 4d.png",
+                  "level": "skillBar3Hide",
+                  "delay": "delay3"
+            },
+            {
+                  "number": "14",
+                  "txt": "JavaScript",
+                  "img":  "assets/img/icons/js.png",
+                  "level": "skillBar3Hide",
+                  "delay": "delay3"
+            },
+            {
+                  "number": "15",
+                  "txt": "Maya",
+                  "img":  "assets/img/icons/maya.png",
+                  "level": "skillBar3Hide",
+                  "delay": "delay3"
+            },
+            {
+                  "number": "16",
+                  "txt": "Audition",
+                  "img":  "assets/img/icons/audition.png",
+                  "level": "skillBar3Hide",
+                  "delay": "delay3"
+            },
+            {
+                  "number": "17",
+                  "txt": "3DS Max",
+                  "img":  "assets/img/icons/max 3d.png",
+                  "level": "skillBar3Hide",
+                  "delay": "delay4"
+            }
+         
+          
+      ]
+
+}       
+          
+
+      
+
+
+   
