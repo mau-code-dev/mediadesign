@@ -2267,6 +2267,8 @@ form {
   border-radius: .5rem
 }
 
+
+
 .fullBtn2 {
   border: .05rem solid #444 !important;
   font-size: .6rem !important;
@@ -2372,3 +2374,46 @@ form {
 position: absolute;
 left: 50%;
 }
+
+
+/* #load-1 {
+  width:100%;
+  height:100%;
+  position:fixed;
+  z-index:9999;
+
+  
+  background: rgb(240, 128, 128) !important;
+
+
+
+ 
+border: 16px solid #f3f3f3;
+border-radius: 50%;
+border-top: 16px solid  rgb(255, 176, 176);
+width: 120px;
+height: 120px;
+-webkit-animation: spin 2s linear infinite; 
+animation: spin 2s linear infinite;
+
+left: calc(50% - 60px);
+top: 50%;
+} */
+
+/* Safari */
+/* @-webkit-keyframes spin {
+0% { -webkit-transform: rotate(0deg); }
+
+100% { -webkit-transform: rotate(360deg); }
+}
+
+@keyframes spin { 
+0% { transform: rotate(0deg); }
+
+
+
+100% { transform: rotate(360deg); }
+
+
+}
+ */
