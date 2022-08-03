@@ -20,10 +20,7 @@ var json = [
       'gd-aurelia.json',
       'gd-queviva.json',
       'gd-zarro.json',
-      'gd-rose.json',
-      'id-trumble.json',
-      'gd-phoneAcc.json',
-      'id-tumbler.json'
+      'gd-rose.json'
       
       
 
