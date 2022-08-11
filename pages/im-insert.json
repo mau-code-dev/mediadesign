@@ -3,15 +3,15 @@
           {
             "slide": "2",
             "slideText": "Branding Web Interactive",
-            "note1": "visible",
-        
-          "note2": "visible",
+           
+            "note1": "hidden",
+            "note2": "hidden",
             "note3": "hidden",
       
 
               "popText1": "Try the buttons. My main objective was to create a series of buttons that a user can comprehend quickly and accurately",
               "popText2": "The main objective was to demonstrate what an would look like in order to serve as a marketing tool for sales",
-              "popText3": "pop",
+              "popText3": "",
 
               "text3": "A web interactive for online use. I developed the concept to aid in the marketing of a new electronic product, as well as promoting it's potential use for promotional branding. The main objective was to provide sales teams with access to customizable media to aid in sells",
 
