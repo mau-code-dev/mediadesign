@@ -568,7 +568,7 @@ function drkmode() {
       var m = document.getElementsByClassName("nav-link");
       var n = document.getElementById("contact");
       var p = document.getElementById("navbarResponsive");
-
+      var q = document.getElementsByClassName("accent-3");
       
 
      e.classList.toggle('dark1-bg');      
@@ -584,7 +584,9 @@ function drkmode() {
      m[i].classList.toggle('dark1-text');
      }
     
-    
+     for(i = 0; i < q.length; i++) {
+      q[i].classList.toggle('dark1-text');
+      }
 
     
     if( ccc == 0) {

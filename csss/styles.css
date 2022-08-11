@@ -1006,7 +1006,7 @@ a.close.disabled {
 }
 
 .dark1-bg {
-  background: rgba(25, 25, 25, 1) !important
+  background: rgba(40, 40, 45, 1) !important
 }
 
 .text-md-primary {
@@ -2363,7 +2363,7 @@ form {
 }
 
 .dark1-text {
-  color:#888 !important;
+  color:#aaa !important;
 }
 
 #navbarmar {
@@ -2417,3 +2417,8 @@ top: 50%;
 
 }
  */
+
+
+ .navLightText1 {
+  color: #666;
+ } 
