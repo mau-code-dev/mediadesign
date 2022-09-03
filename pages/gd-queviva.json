@@ -44,7 +44,7 @@
 
                "ratio": "ratio ratio-16x9",
                "video": "",
-               "img": "assets/img/queviva.jpg",
+               "img": "assets/img/queviva2.jpg",
 
               "widthLg": "450",
               "heightLg": "450",  
@@ -63,8 +63,8 @@
             {
                   "thnlText1":"",
                   "thnlText2": "Product Label and Packaging",
-                  "thnl": "assets/thnl/queviva_thnl.jpg",
-                  "dotSlot": "assets/thnl/queviva_thnl.jpg",
+                  "thnl": "assets/thnl/queviva_thnl2.jpg",
+                  "dotSlot": "assets/thnl/queviva_thnl2.jpg",
                   "f.widthThnl": "571",
                   "f.heightThnl": "318"
                  
